@@ -1,2 +1,3 @@
 # desenvolvimento-mobile
-Site que estou desenvolvendo usando um celular android
+Site que estou desenvolvendo usando um celular android e o aplicativo WebCode(PlayStore - @20)...
+Linguagens utilizadas {Html, CSS, JavaScript}
